@@ -66,8 +66,5 @@ Some potential enhancements for the game:
 - High score tracking
 - Difficulty progression
 
-## License
-
-This project is open-source and available for anyone to use or modify.
 
 Enjoy the game! 🏀
